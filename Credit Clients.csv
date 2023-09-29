@@ -1,4 +1,4 @@
-Loan Amount (N),Age,Sex,Interest rates (%),Repayment Period,Amort,State,Non-Performing amount
+Loan Amount (N),Age,Sex,Interest rates (%),Repayment Period,Amort,State,NPL
 "9,007,000",59,2,10.5,Monthly,Interest only,Oyo,"9,007,000"
 "2,000,000",48,1,18.6,Annual,Principal and Interest,Oyo,"2,000,000"
 "6,000,050",24,1,19.2,Four,Interest only,Oyo,"6,000,050"
